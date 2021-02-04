@@ -9,8 +9,6 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "core-js": "^3.6.5",
-    "type": "module",
     "vue": "^2.6.11",
     "vue-router": "^3.0.1",
     "vuelidate": "^0.7.6",

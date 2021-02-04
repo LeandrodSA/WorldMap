@@ -26,10 +26,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Dependencies
 ````
 Avios
-````
+
 VueRouter
-````
+
 Vuetify
-````
+
 Vuelidate
-````
