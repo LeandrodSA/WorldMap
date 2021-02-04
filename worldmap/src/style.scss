@@ -1,0 +1,23 @@
+.bar {
+    div {
+        padding: 5px;
+        display: inline-flex;
+        
+    }
+
+    .item {        
+        color: rgb(0, 0, 0);
+        width: 100px;
+        font-size: 25px;
+    }
+}
+
+.page-enter,
+.page-leave-active {
+    opacity: 0;
+}
+
+.page-enter-active,
+.page-leave-active {
+    transition: opacity 0.4s;
+}

@@ -1,0 +1,24 @@
+@import "@/assets/scss/_main";
+.form {
+    width: 100%;
+    margin-top: 150px;
+    margin-top: 10px;
+    text-align: center;
+
+    .txt {
+        width: 200px;
+        display: inline-block;
+        text-align: left;
+    }
+
+    .status {
+        margin: 50px;
+        display: inline-block;
+        justify-content: center;
+        li {
+            margin: 8px;
+            text-align: left;
+            list-style-type: none;
+        }
+    }
+}
